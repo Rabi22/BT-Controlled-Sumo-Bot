@@ -1,4 +1,4 @@
-````md
+
 # BT-Controlled-Sumo-Bot 🤖🔥
 
 A Bluetooth-controlled sumo robot designed for wireless navigation and robotic battle applications using Arduino and HC-05 Bluetooth communication.
@@ -25,19 +25,15 @@ A Bluetooth-controlled sumo robot designed for wireless navigation and robotic b
 - Arduino IDE
 - Embedded C
 
----
-
 ## 📂 Project Structure
 
-```bash
 BT-Controlled-Sumo-Bot/
 │── Arduino_Code/
 │── Circuit_Diagram/
 │── Images/
 │── README.md
-````
 
----
+
 
 ## ⚙️ Hardware Components
 
@@ -50,7 +46,6 @@ BT-Controlled-Sumo-Bot/
 | Battery Pack  | Power supply            |
 | Robot Chassis | Structural body         |
 
----
 
 ## 🔌 Working
 
@@ -60,23 +55,19 @@ BT-Controlled-Sumo-Bot/
 4. Motor driver controls the motors accordingly.
 5. Robot performs movement actions in real time.
 
----
 
 ## 📸 Project Preview
 
-```md
-![Robot Image](Images/robot.jpg)
-```
 
----
+![Robot Image](Images/robot.jpg)
 
 ## 🚀 Installation
 
 ### Clone Repository
 
-```bash
+
 git clone https://github.com/Rabi22/BT-Controlled-Sumo-Bot.git
-```
+
 
 ### Upload Code
 
@@ -85,7 +76,7 @@ git clone https://github.com/Rabi22/BT-Controlled-Sumo-Bot.git
 3. Select correct COM port
 4. Upload `.ino` file
 
----
+
 
 ## 🎮 Control Commands
 
